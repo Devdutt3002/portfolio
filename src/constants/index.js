@@ -31,7 +31,7 @@ export const PROJECTS = [
     title: "Portfolio Website",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
+      "A personal portfolio website showcasing projects, skills, education and contact information.",
     technologies: ["React.js", "Framer Motion", "Tailwind CSS"],
     ViewLink: '',
     githubLink: 'https://github.com/Devdutt3002/portfolio',
