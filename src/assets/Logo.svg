@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img">
+  <rect width="100%" height="100%" rx="28" fill="#0b0b0b"/>
+  <g>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central"
+          font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif"
+          font-weight="800" font-size="112" fill="#ffffff">DK</text>
+  </g>
+</svg>
+
+
